@@ -1,12 +1,26 @@
-h1{
-    /* text-decoration: underline; */
-    /* text-transform: uppercase; */
+.heading
+{
+    text-decoration: underline;
+    font-family: Arial;
+    font-size: x-large;
+    font-weight: bold;
     text-transform: uppercase;
-    font-size: 30px;
 }
-.heading label{
-    margin:0;
-    padding:0;
-font-size: 50px;
-font-s
+.general
+{
+    font-style: italic;
+    text-align: justify;
+
+}
+.places
+{
+    text-decoration: underline;
+    font-family: cursive;
+    font-size: medium;
+    text-transform: capitalize;
+
+}
+ul{
+    font-size:small ;
+    font-family: Verdana;
 }

@@ -1,12 +1,15 @@
-h1{
-    text-transform: uppercase;
-    text-decoration: underline;
+.section
+{
+    text-align: justify;
 }
-h2{
+.sub_section
+{
+    text-indent: 5%;
+    text-align: justify;
+}
+h2,h3{
+    text-align-last: left;
+    word-spacing: 2px;
     text-decoration: underline;
     text-transform: uppercase;
-    text-indent: 30px;
-}
-ul li,h2 p{
-    text-indent: 30px;
 }
