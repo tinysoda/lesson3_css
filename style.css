@@ -1,0 +1,12 @@
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+h2{
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-indent: 30px;
+}
+ul li,h2 p{
+    text-indent: 30px;
+}
